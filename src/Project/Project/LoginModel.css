@@ -1,0 +1,92 @@
+.input-row {
+  display: flex;
+  gap: 10px;
+}
+
+.floating-label {
+  position: relative;
+}
+
+.floating-label input {
+  width: 100%;
+  padding: 10px 30px 10px 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  outline: none;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.floating-label input:focus {
+  border-color: #000000;
+}
+
+/* Label behavior */
+.floating-label label {
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  color: #888;
+  background-color: white;
+  transition: all 0.2s ease;
+  padding: 0 5px;
+  pointer-events: none;
+}
+
+.floating-label label.float {
+  top: -8px;
+  left: 8px;
+  font-size: 12px;
+  color: #000000;
+}
+
+/* Dropdown container */
+.code-input {
+  position: relative;
+  cursor: pointer;
+}
+
+/* Arrow icon */
+.arrow {
+  position: absolute;
+  right: 10px;
+  top: 12px;
+  transition: 0.3s;
+  color: #888;
+}
+
+.arrow.open {
+  transform: rotate(180deg);
+}
+
+/* Dropdown list */
+.drop-list {
+  max-height: 150px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #fff;
+  margin-top: 4px;
+  z-index: 1000;
+  position: absolute;
+  width: 100%;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.drop-item {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.drop-item:hover {
+  background-color: #f5f5f5;
+}
+
+/* Remove icon */
+.remove-icon {
+  position: absolute;
+  right: 8px;
+  top: 10px;
+  cursor: pointer;
+  color: #666;
+}
