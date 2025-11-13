@@ -9,12 +9,12 @@ import usa from './../assets/Flags/flag-usa.svg';
 import ger from './../assets/Flags/flag-ger.svg';
 import esp from './../assets/Flags/flag-esp.svg';
 import squk from './../assets/Flags/Sq-flag-uk.svg'
-import squs from './../assets/Flags/sq-flag-us.svg'
-import sqaus from './../assets/Flags/sq-flag-aus.svg'
-import sqcan from './../assets/Flags/sq-flag-can.svg'
-import sqesp from './../assets/Flags/sq-flag-esp.svg'
-import sqger from './../assets/Flags/sq-flag-ger.svg'
-import sqire from './../assets/Flags/sq-flag-ire.svg'
+import squs from './../assets/Flags/Sq-flag-us.svg'
+import sqaus from './../assets/Flags/Sq-flag-aus.svg'
+import sqcan from './../assets/Flags/Sq-flag-can.svg'
+import sqesp from './../assets/Flags/Sq-flag-esp.svg'
+import sqger from './../assets/Flags/Sq-flag-ger.svg'
+import sqire from './../assets/Flags/Sq-flag-ire.svg'
 import { GoCheck } from "react-icons/go";
 
 function Thousands() {
