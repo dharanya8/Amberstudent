@@ -15,6 +15,8 @@ import sqcan from './../assets/Flags/sq-flag-can.svg'
 import sqesp from './../assets/Flags/sq-flag-esp.svg'
 import sqger from './../assets/Flags/sq-flag-ger.svg'
 import sqire from './../assets/Flags/sq-flag-ire.svg'
+import { GoCheck } from "react-icons/go";
+
 function Thousands() {
   const data = {
     "United Kingdom": ["London", "Birmingham", "Leicester", "Liverpool", "Sheffield"],
@@ -87,7 +89,7 @@ function Thousands() {
                 {country}
                 </div>
                 {selectedCountry === country && (
-                  <HiCheck className="check-icon" />
+                  <GoCheck  className="check-icon" />
                 )}
               </div>
             ))}
