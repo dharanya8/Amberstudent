@@ -1,0 +1,106 @@
+.thousand {
+  padding: 48px 80px;
+  font-family: inherit;
+}
+
+.properties {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.studio {
+  font-size: 15px;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+/* Dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.drop {
+  padding: 10px 20px;
+  border: 1px solid #ed3a56;
+  background-color: #fff3f9;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+  color: #ed3a56;
+  font-size: 14px;
+}
+.drop-content {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  min-width: 250px;
+  z-index: 1000;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.drop-item {
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background 0.3s;
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 3px;
+}
+
+.dropdown-item:hover {
+  background-color: #f2f2f2;
+}
+.drop-item.active {
+  background-color: #e8f3ff;
+  font-weight: 500;
+}
+.check-icon {
+  color: #0073e6; 
+  font-size: 18px;
+}
+.city-list {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.city-btn {
+  padding: 10px 20px;
+  border: 1px solid rgb(241, 236, 236);
+  border-radius: 25px;
+  background-color: #fff;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.city-btn:active{
+    color: #ed3a56;
+    border: 1px solid  #d10f0f;
+    background-color: #fff3f9;
+}
+.country-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  gap: 10px;
+}
+
+.country-info .flag {
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+}
+.country-name {
+  flex: 1;
+  text-align: left;
+}
+
+.check-icon {
+  color:black;
+  font-size: 18px;
+}
