@@ -1,0 +1,169 @@
+/* 🔹 Main Search Container */
+.input {
+       width: 100%;
+      height: 70px;
+      padding-left: 33px;
+      border-radius: 50px;
+      font-size: 16px;
+      border: none;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+      border-radius: 50px;
+  
+      
+}
+.input:focus-visible{
+  outline-offset:-40px !important;
+  border:none;
+}
+.topcities h6{
+  color:#4b5563;
+  font:inherit;
+}
+.city  span{
+  color:#4b5563;
+  font:inherit;
+}
+/* 🔹 Search icon area */
+.searchbar {
+  background-color: #f3123f;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 333px;
+}
+
+/* 🔹 Dropdown Panel */
+.dropdown-panel {
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  /* padding: 2px; */
+  position: absolute;
+  top: 80px;
+  width: 720px;
+  max-height: 325px;
+  overflow-y: auto;
+  z-index: 10;
+  transition: all 0.3s ease;
+}
+
+/* 🔹 Responsive Adjustments */
+@media (max-width: 1024px) {
+  .dropdown-panel {
+    width: 70%;
+   
+  }
+
+  .input {
+    height: 70px;
+    font-size: 15px;
+  }
+
+  .searchbar {
+    width: 60px;
+    height: 60px;
+  margin-left: 333px;
+  }
+}
+
+@media (max-width: 768px) {
+  .dropdown-panel {
+    width: 95%;
+    left: 50%; 
+    transform: translateX(-50%);
+    top: 85px;
+    /* padding: 15px; */
+  }
+
+  .input {
+    height: 65px;
+    width: 715px;
+    font-size: 14px;
+     padding-left: 25px; 
+  }
+
+  .searchbar {
+    width: 60px;
+    height: 60px;
+    margin-left: 330px;
+  }
+
+  .dropdown-panel h6 {
+    font-size: 14px;
+  }
+
+  .dropdown-panel span {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .input {
+    height: 55px;
+    font-size: 13px;
+    border-radius: 40px;
+  }
+
+  .searchbar {
+    width: 55px;
+    height: 55px;
+    margin-left: 90px;
+  }
+
+  .dropdown-panel {
+    width: 95%;
+    top: 75px;
+    padding: 10px;
+    border-radius: 15px;
+
+  }
+
+  .dropdown-panel h6 {
+    font-size: 13px;
+    margin-bottom: 6px;
+  }
+
+  .dropdown-panel span {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+
+  .dropdown-panel img {
+    width: 18px;
+    height: 18px;
+  }
+}
+@media (max-width: 425px){
+  .searchbar{
+    margin-left: 40px;
+  }
+  .input{
+    width:425px;
+  }
+}
+@media (max-width: 375px){
+  .searchbar{
+    margin-left: 1px;
+  }
+  .input{
+    width:385px;
+  }
+}
+@media (max-width:320px){
+  .input{
+    width:383px;
+  }
+}
+
+/* 🔹 Scrollbar look clean */
+.dropdown-panel::-webkit-scrollbar {
+  width: 6px;
+}
+.dropdown-panel::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
