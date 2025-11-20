@@ -1,0 +1,13 @@
+{
+  "support": {
+    "quickChat": "#quick-chat",
+    "whatsapp": "https://wa.me/918035735724",
+    "messenger": "https://m.me/amberstudent",
+    "phone": "+91 8035735724",
+    "email": "contact@amberstudent.com"
+  },
+  "quickLinks": [
+    { "text": "Help Center", "link": "#help-center" },
+    { "text": "How It Works", "link": "#how-it-works" }
+  ]
+}

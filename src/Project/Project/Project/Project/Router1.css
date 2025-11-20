@@ -1,0 +1,18 @@
+.navbar-custom {
+  position: fixed;     /* navbar always on top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  padding: 10px 0;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-transparent {
+  background-color: transparent !important;
+}
+
+.navbar-colored {
+  background-color: #ffffff !important;   /* scroll pannatha white */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}

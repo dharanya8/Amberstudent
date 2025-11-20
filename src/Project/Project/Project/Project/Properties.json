@@ -1,0 +1,1223 @@
+
+{
+  "London": [
+    {
+      "id": 1,
+      "name": "Londonist Paddington Citi View...",
+      "location": "London, England, GB",
+      "price": "£530/",
+      "rating": 5.0,
+      "images": [
+  "/images/London1.avif",
+  "/images/London12.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Moonraker Point, London",
+      "location": "London, England, GB",
+      "price": "£265/",
+         "rating": 4.6,
+    "images": [
+  "/images/London2.avif",
+  "/images/London21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Brooke Hall, London",
+      "location": "London, England, GB",
+      "price": "£298/",
+      "rating": 4.0,
+"images": [
+  "/images/London3.avif",
+  "/images/London31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Britannia South Bank, London",
+      "location": "London, England, GB",
+      "price": "£290/",
+      "rating": 5.0,
+"images": [
+  "/images/London4.avif",
+  "/images/London41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Lodonist Drapery Place, London",
+      "location": "London, England, GB",
+      "price": "£410/",
+      "rating": 5.0,
+"images": [
+  "/images/London5.avif",
+  "/images/London51.avif"
+      ]    }
+  ],
+  "Birmingham": [
+    {"id": 1,
+      "name": "Beech Gardens, Birmingham",
+      "location": "Birmingham, England, GB",
+      "price": "£139/",
+      "rating": 5.0,
+"images": [
+  "/images/Birmingham1.avif",
+  "/images/Birmingham11.avif"
+      ]
+    },
+    {"id": 2,
+      "name": "Harriet Martineau, Birmingham",
+      "location": "Birmingham, England, GB",
+      "price": "£130/",
+      "rating": 4.7,
+      "images": [
+      "/images/Birmingham2.avif",
+      "/images/Birmingham21.avif"
+      ]
+    },
+    {"id": 3,
+      "name": "Lakeside, Birmingham",
+      "location": "Birmingham, England, GB",
+      "price": "£139/",
+      "rating": 5.0,
+"images": [
+  "/images/Birmingham3.avif",
+  "/images/Birmingham31.avif"
+      ]
+    },
+    {"id": 4,
+      "name": "Altura, Birmingham",
+      "location": "Birmingham, England, GB",
+      "price": "£160/",
+      "rating": 5.0,
+"images": [
+  "/images/Birmingham4.avif",
+  "/images/Birmingham41.avif"
+      ]
+    },
+    {"id": 5,
+      "name": "iQ Broderick House, Birmingham",
+      "location": "Birmingham, England, GB",
+      "price": "£182/",
+      "rating": 5.0,
+"images": [
+  "/images/Birmingham5.avif",
+  "/images/Birmingham51.avif"
+      ]
+    }
+  ],
+
+  "Leicester": [
+    {"id": 1,
+      "name": "Pennie House, Leicester",
+      "location": "Leicester, England, GB",
+      "price": "£89/",
+      "rating": 4.9,
+"images": [
+  "/images/Leicester1.avif",
+  "/images/Leicester11.avif"
+      ]
+    },
+    {"id": 2,
+      "name": "Ben Russell Court, Leicester",
+      "location": "Leicester, England, GB",
+      "price": "£107/",
+      "rating": 5.0,
+"images": [
+  "/images/Leicester2.avif",
+  "/images/Leicester21.avif"
+      ]
+    },
+    {"id": 3,
+      "name": "Regents Court, Leicester",
+      "location": "Leicester, England, GB",
+      "price": "£121/",
+      "rating": 4.9,
+"images": [
+  "/images/Leicester3.avif",
+  "/images/Leicester31.avif"
+      ]
+    },
+    {"id": 4,
+      "name": "Liberty Park, Leicester",
+      "location": "Leicester, England, GB",
+      "price": "£95/",
+      "rating": 4.4,
+"images": [
+  "/images/Leicester4.avif",
+  "/images/Leicester41.avif"
+      ]
+    },
+    {"id": 5,
+      "name": "iQ Grosvenor House, Leicester",
+      "location": "Leicester, England, GB",
+      "price": "£120/",
+      "rating": 5.0,
+"images": [
+  "/images/Leicester5.avif",
+  "/images/Leicester51.avif"
+      ]
+    }
+  ],
+
+  "Liverpool": [
+    {"id": 1,
+      "name": "Atlantic Point, Liverpool",
+      "location": "Liverpool, England, GB",
+      "price": "£98/",
+      "rating": 4.9,
+"images": [
+  "/images/Liverpool1.avif",
+  "/images/Liverpool11.avif"
+      ]
+    },
+    {"id": 2,
+      "name": "Grand center, Liverpool",
+      "location": "Liverpool, England, GB",
+      "price": "£105/",
+      "rating": 4.9,
+"images": [
+  "/images/Liverpool2.avif",
+  "/images/Liverpool21.avif"
+      ]
+    },
+    {"id": 3,
+      "name": "Moorfield, Liverpool",
+      "location": "Liverpool, England, GB",
+      "price": "£106/",
+      "rating": 4.8,
+"images": [
+  "/images/Liverpool3.avif",
+  "/images/Liverpool31.avif"
+      ]
+    },
+    {"id": 4,
+      "name": "Phoenix Place, Liverpool",
+      "location": "Liverpool, England, GB",
+      "price": "£120/",
+      "rating": 5.0,
+"images": [
+  "/images/Liverpool4.avif",
+  "/images/Liverpool41.avif"
+      ]
+    },
+    {"id": 5,
+      "name": "St Andrew'sGardens, Liverpool",
+      "location": "Liverpool, England, GB",
+      "price": "£105/",
+      "rating": 5.0,
+"images": [
+  "/images/Liverpool5.avif",
+  "/images/Liverpool51.avif"
+      ]
+    }
+  ],
+
+  "Sheffield": [
+    {"id": 1,
+      "name": "Central Quay, Sheffield",
+      "location": "Sheffield, England, GB",
+      "price": "£75/",
+      "rating": 4.7,
+"images": [
+  "/images/Sheffield1.avif",
+  "/images/Sheffield11.avif"
+      ]
+    },
+    {"id": 2,
+      "name": "Bailey, Sheffiled",
+      "location": "Sheffield, England, GB",
+      "price": "£80/",
+      "rating": 4.5,
+"images": [
+  "/images/Sheffield2.avif",
+  "/images/Sheffield21.avif"
+      ]
+    },
+    {"id": 3,
+      "name": "Sheffield 3, Sheffield",
+      "location": "Sheffield, England, GB",
+      "price": "£84/",
+      "rating": 4.8,
+"images": [
+  "/images/Sheffield3.avif",
+  "/images/Sheffield31.avif"
+      ]
+    },
+    {"id": 4,
+      "name": "Archways, Sheffield",
+      "location": "Sheffield, England, GB",
+      "price": "£73/",
+      "rating": 4.3,
+"images": [
+  "/images/Sheffield4.avif",
+  "/images/Sheffield41.avif"
+      ]
+    },
+    {"id": 5,
+      "name": "Rockingham House, Sheffield",
+      "location": "Sheffield, England, GB",
+      "price": "£85/",
+      "rating": 4.8,
+"images": [
+  "/images/Sheffield5.avif",
+  "/images/Sheffield51.avif"
+   ]
+    }
+  ],
+    "New York": [
+    {
+      "id": 1,
+      "name": "167 Tompkins Ave, Brooklyn",
+      "location": "New York, NewYork, US",
+      "price": "$1300/",
+      "rating": 4.7,
+      "images": [
+  "/images/Newyark1.avif",
+  "/images/Newyark11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chelsea, New York",
+      "location": "New York, NewYork, US",
+      "price": "$1653/",
+      "rating": 4.5,
+    "images": [
+  "/images/Newyark2.avif",
+  "/images/Newyark21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "43 Avenue C, New York",
+      "location": "New York, NewYork, US",
+      "price": "$2050/",
+      "rating": 5.0,
+"images": [
+  "/images/Newyark3.avif",
+  "/images/Newyark31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "832 Lexington Ave, Brooklyn",
+      "location": "New York, NewYork, US",
+      "price": "$1150/",
+      "rating": 4.7,
+"images": [
+  "/images/Newyark4.avif",
+  "/images/Newyark41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "E 7th St, New York",
+      "location": "New York, NewYork, US",
+      "price": "$2200/",
+      "rating": 4.7,
+"images": [
+  "/images/Newyark5.avif",
+  "/images/Newyark51.avif"
+      ]    }
+  ],
+    "Boston": [
+    {
+      "id": 1,
+      "name": "Lightview, Boston",
+      "location": "Boston, Massachusetts, US",
+      "price": "$1879/",
+      "rating": 4.3,
+      "images": [
+  "/images/Boston1.avif",
+  "/images/Boston1.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "85 Park Drive, Boston",
+      "location": "Boston, Massachusetts, US",
+      "price": "$2740/",
+      "rating": 5.0,
+    "images": [
+  "/images/Boston2.avif",
+  "/images/Boston21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "j Vue at the LMA, Boston",
+      "location": "Boston, Massachusetts, US",
+      "price": "$2501/",
+      "rating": 4.6,
+"images": [
+  "/images/Boston3.avif",
+  "/images/Boston31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "1047 Commonwealth, Boston",
+      "location": "Boston, Massachusetts, US",
+      "price": "$2970/",
+      "rating": 5.0,
+"images": [
+  "/images/Boston4.avif",
+  "/images/Boston41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Imprint, Dorchester",
+      "location": "Boston, Massachusetts, US",
+      "price": "$2375/",
+      "rating": 4.8,
+"images": [
+  "/images/Boston5.avif",
+  "/images/Boston51.avif"
+      ]    }
+  ],
+    "San Francisco": [
+    {
+      "id": 1,
+      "name": "1080 Folsom Residences, San Fr...",
+      "location": "San  Francisco, California, US",
+      "price": "$995/",
+      "rating": 4.9,
+      "images": [
+  "/images/San1.avif",
+  "/images/San11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "221 7th Street Residences, San F...",
+      "location": "San  Francisco, California, US",
+      "price": "$995/",
+      "rating": 5.0,
+    "images": [
+  "/images/San2.avif",
+  "/images/San21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Upmarket Residences, San Fran...",
+      "location": "San  Francisco, California, US",
+      "price": "$995/",
+      "rating": 4.8,
+"images": [
+  "/images/San3.avif",
+  "/images/San31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "371 Columbus Residences, San ...",
+      "location": "San  Francisco, California, US",
+      "price": "$1195/",
+      "rating": 4.6,
+"images": [
+  "/images/San4.avif",
+  "/images/San41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "251 9th Street Residences, San F...",
+      "location": "San  Francisco, California, US",
+      "price": "$1195/",
+      "rating": 4.8,
+"images": [
+  "/images/San5.avif",
+  "/images/San51.avif"
+      ]    }
+  ],
+    "Chicago": [
+    {
+      "id": 1,
+      "name": "The Letterman, Chicago",
+      "location": "Chicago, Illinois, US",
+      "price": "$1310/",
+      "rating": 4.8,
+      "images": [
+  "/images/Chicago1.avif",
+  "/images/Chicago11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Addams Coliving, Chicago",
+      "location": "Chicago, Illinois, US",
+      "price": "$1255/",
+      "rating": 4.0,
+    "images": [
+  "/images/Chicago2.avif",
+  "/images/Chicago21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Prairie Shores Bronzeville, Chica...",
+      "location": "Chicago, Illinois, US",
+      "price": "$1255/",
+      "rating": 4.5,
+"images": [
+  "/images/Chicago3.avif",
+  "/images/Chicago31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Axis Apartments & Lofts, Chicago",
+      "location": "Chicago, Illinois, US",
+      "price": "$1765/",
+      "rating": 4.8,
+"images": [
+  "/images/Chicago4.avif",
+  "/images/Chicago41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Century Tower, Chicago",
+      "location": "Chicago, Illinois, US",
+      "price": "$1775/",
+      "rating": 4.7,
+"images": [
+  "/images/Chicago5.avif",
+  "/images/Chicago51.avif"
+      ]    }
+  ],
+    "Sydney": [
+    {
+      "id": 1,
+      "name": "Scape Sydney Central, Sydney",
+      "location": "Redfem, New South Wales,AU",
+      "price": "AU$459/",
+      "rating": 4.8,
+      "images": [
+  "/images/Sdyney1.avif",
+  "/images/Sdyney11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Scape Darling Square, Sdyney",
+      "location": "Redfem, New South Wales,AU",
+      "price": "AU$499/",
+      "rating": 5.0,
+    "images": [
+  "/images/Sdyney2.avif",
+  "/images/Sdyney21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Scape Redafern, Sydney",
+      "location": "Redfem, New South Wales,AU",
+      "price": "AU$539/",
+      "rating": 4.8,
+"images": [
+  "/images/Sdyney3.avif",
+  "/images/Sdyney31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Scape Glebe, Sdyney",
+      "location": "London, England, GB",
+      "price": "AU$539/",
+      "rating": 4.8,
+"images": [
+  "/images/Sdyney4.avif",
+  "/images/Sdyney41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Scape Cleceland, Sdyney",
+      "location": "Redfem, New South Wales,AU",
+      "price": "AU$509/",
+      "rating": 4.8,
+"images": [
+  "/images/Sdyney5.avif",
+  "/images/Sdyney51.avif"
+      ]    }
+  ],
+    "Melbourne": [
+    {
+      "id": 1,
+      "name": "Carric, Melbourne",
+      "location": "South Brisbane, Queensland, Au",
+      "price": "AU$235/",
+      "rating": 4.8,
+      "images": [
+  "/images/Melbourney1.avif",
+  "/images/Melbourney11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dwell Village, ...",
+      "location": "South Brisbane, Queensland, Au",
+      "price": "AU$355/",
+      "rating": 5.0,
+    "images": [
+  "/images/Melbourney2.avif",
+  "/images/Melbourney21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Scape Berkeley 1, Melbourne",
+      "location": "London, England, GB",
+      "price": "AU$329/",
+      "rating": 4.8,
+"images": [
+  "/images/Melbourney3.avif",
+  "/images/Melbourney31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Student Village The University ...",
+      "location": "South Brisbane, Queensland, Au",
+      "price": "AU$297/",
+      "rating": 4.7,
+"images": [
+  "/images/Melbourney4.avif",
+  "/images/Melbourney41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Carric House, Melbourney",
+      "location": "North Melbourne, Voctoria, AU",
+      "price": "AU$260/",
+      "rating": 4.8,
+"images": [
+  "/images/Melbourney5.avif",
+  "/images/Melbourney51.avif"
+      ]    }
+  ],
+    "Brisbane": [
+    {
+      "id": 1,
+      "name": "UniLodge Herston, Brisbane",
+      "location": "Herston, Queensland, AU",
+      "price": "AU$199/",
+      "rating": 4.8,
+      "images": [
+  "/images/Brisbane1.avif",
+  "/images/Brisbane11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Moonraker Point, Brisbane",
+      "location": "South Brisbane, Queensland, Au",
+      "price": "AU$279/",
+      "rating": 5.0,
+    "images": [
+  "/images/Brisbane2.avif",
+  "/images/Brisbane21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "UniLodge South Bank, Brisbane",
+      "location": "South Brisbane, Queensland, Au",
+      "price": "AU$289/",
+      "rating": 5.0,
+"images": [
+  "/images/Brisbane3.avif",
+  "/images/Brisbane31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Scape Merivale, Brisbane",
+      "location": "South Brisbane, Queensland, Au",
+      "price": "AU$299/",
+      "rating": 4.8,
+"images": [
+  "/images/Brisbane4.avif",
+  "/images/Brisbane41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "UniLodge Park Central, Brisbane",
+      "location": "Woolloongabba, Queensland, AU",
+      "price": "AU$329/",
+      "rating": 5.0,
+"images": [
+  "/images/Brisbane5.avif",
+  "/images/Brisbane51.avif"
+      ]    }
+  ],
+    "Dublin": [
+    {
+      "id": 1,
+      "name": "Mayor Square, Dublin",
+      "location": "Dublin 1, Country Dublin, IE",
+      "price": "£301/",
+      "rating": 4.6,
+      "images": [
+  "/images/Dublin1.avif",
+  "/images/Dublin11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Artisan, Dublin",
+      "location": "Dublin 1, Country Dublin, IE",
+      "price": "£330/",
+      "rating": 4.8,
+    "images": [
+  "/images/Dublin2.avif",
+  "/images/Dublin21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "The Residence Stoneybatter, Du...",
+      "location": "Dublin 1, Country Dublin, IE",
+      "price": "£270/",
+      "rating": 5.0,
+"images": [
+  "/images/Dublin3.avif",
+  "/images/Dublin31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Arasain P&V, Dublin",
+      "location": "Dublin 1, Country Dublin, IE",
+      "price": "£290/",
+      "rating": 4.7,
+"images": [
+  "/images/Dublin4.avif",
+  "/images/Dublin41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Point Campus, Dublin",
+      "location": "Dublin 1, Country Dublin, IE",
+      "price": "£325/",
+      "rating": 4.9,
+"images": [
+  "/images/Dublin5.avif",
+  "/images/Dublin51.avif"
+      ]    }
+  ],
+    "Cork": [
+    {
+      "id": 1,
+      "name": "Copley Court, Cork",
+      "location": "Cork, Country Cork, IE",
+      "price": "£260/",
+      "rating": 5.0,
+      "images": [
+  "/images/Cork1.avif",
+  "/images/Cork11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Yugo Bottleworks, Cork",
+      "location": "Cork, Country Cork, IE",
+      "price": "£328/",
+      "rating": 4.6,
+    "images": [
+  "/images/Cork2.avif",
+  "/images/Cork21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Broga House, Cork",
+      "location": "Cork, Country Cork, IE",
+      "price": "£292/",
+      "rating": 4.8,
+"images": [
+  "/images/Cork3.avif",
+  "/images/Cork31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Ashlin House, Cork",
+      "location": "Cork, Country Cork, IE",
+      "price": "£296/",
+      "rating": 4.8,
+"images": [
+  "/images/Cork4.avif",
+  "/images/Cork41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Curraheen Point, Cork",
+      "location": "Cork, Country Cork, IE",
+      "price": "£292/",
+      "rating": 4.7,
+"images": [
+  "/images/Cork5.avif",
+  "/images/Cork51.avif"
+
+      ]    }
+  ],
+    "Toronto": [
+    {
+      "id": 1,
+      "name": "Liwinco Waterfront, Toronto",
+      "location": "Toronto, Ontario, CA",
+      "price": "CA$250/",
+    "rating": 4.8,
+      "images": [
+  "/images/Toronto1.avif",
+  "/images/Toronto11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Johanson's Hundred Wellesley, T...",
+      "location": "Toronto, Ontario, CA",
+      "price": "CA$245/",
+      "rating": 4.6,
+    "images": [
+  "/images/Toronto2.avif",
+  "/images/Toronto21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Liwinco The City Place, Toronto",
+      "location": "Toronto, Ontario, CA",
+      "price": "CA$320/",
+      "rating": 5.0,
+"images": [
+  "/images/Toronto3.avif",
+  "/images/Toronto31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Liwinco Wellesely Street, Toronto",
+      "location": "Toronto, Ontario, CA",
+      "price": "CA$1210/",
+      "rating": 5.0,
+"images": [
+  "/images/Toronto4.avif",
+  "/images/Toronto41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Liwinco Entertainment District, ...",
+      "location": "Toronto, Ontario, CA",
+      "price": "CA$270/",
+      "rating": 4.8,
+"images": [
+  "/images/Toronto5.avif",
+  "/images/Toronto51.avif"
+      ]    }
+  ],
+    "Vancouver": [
+    {
+      "id": 1,
+      "name": "23 W Cordova St, Vancouver",
+      "location": "Vancouver, British Columbia, CA",
+      "price": "CA$1650/",
+      "rating": 4.5,
+      "images": [
+  "/images/Vancouver1.avif",
+  "/images/Vancouver11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "812 W 42nd Ave, Vancouver",
+      "location": "Vancouver, British Columbia, CA",
+      "price": "CA$900/",
+      "rating": 4.7,
+    "images": [
+  "/images/Vancouver2.avif",
+  "/images/Vancouver21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "988 W 32nd Ave, Vancouver",
+      "location": "Vancouver, British Columbia, CA",
+      "price": "CA$1100/",
+      "rating": 4.9,
+"images": [
+  "/images/Vancouver3.avif",
+  "/images/Vancouver31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "2111 W 34th Avenue, Vancouver",
+      "location": "Vancouver, British Columbia, CA",
+      "price": "CA&1550/",
+      "rating": 4.5,
+"images": [
+  "/images/Vancouver4.avif",
+  "/images/Vancouver41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "7441 Granville St, Vancouver",
+      "location": "Vancouver, British Columbia, CA",
+      "price": "CA$1150/",
+      "rating": 5.0,
+"images": [
+  "/images/Vancouver5.avif",
+  "/images/Vancouver51.avif"
+      ]    }
+  ],
+    "Montreal": [
+    {
+      "id": 1,
+      "name": "Parc Cite, Montreal",
+      "location": "Montreal, Quebec, CA",
+      "price": "CA$610/",
+    "rating": 4.6,
+      "images": [
+  "/images/Montreal1.avif",
+  "/images/Montreal11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Alma  @ Shaighnessy Village, ...",
+      "location": "Montreal, Quebec, CA",
+      "price": "CA$940/",
+  "rating": 4.0,
+    "images": [
+  "/images/Montreal2.avif",
+  "/images/Montreal21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Palay, Montreal",
+      "location": "Montreal, Quebec, CA",
+      "price": "CA$1150/",
+      "rating": 4.3,
+"images": [
+  "/images/Montreal3.avif",
+  "/images/Montreal31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "364 Rule Delinelle, Montreal",
+      "location": "Montreal, Quebec, CA",
+      "price": "CA$940/",
+      "rating": 4.6,
+"images": [
+  "/images/Montreal4.avif",
+  "/images/Montreal41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "3717 Rue Berri, Montreal",
+      "location": "Montreal, Quebec, CA",
+      "price": "CA$610/",
+      "rating": 4.8,
+"images": [
+  "/images/Montreal5.avif",
+  "/images/Montreal51.avif"
+      ]    }
+  ],
+    "Berlin": [
+    {
+      "id": 1,
+      "name": "RM GreifswalderStraBe 227, Ber...",
+      "location": "Berlin, Berlin, DE",
+      "price": "£680/",
+      "rating": 4.9,
+      "images": [
+  "/images/Berlin1.avif",
+  "/images/Berlin11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "RM CharlottenstraBe 97b, Berlin",
+      "location": "Berlin, Berlin, DE",
+      "price": "£695/",
+      "rating": 5.0,
+    "images": [
+  "/images/Berlin2.avif",
+  "/images/Berlin21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "RM Potsdamer StraBe 102, Berlin",
+      "location": "Berlin, Berlin, DE",
+      "price": "£710/",
+      "rating": 4.7,
+"images": [
+  "/images/Berlin3.avif",
+  "/images/Berlin31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Tannhaus Apartments Mitte We...",
+      "location": "Berlin, Berlin, DE",
+      "price": "£1555/",
+      "rating": 5.0,
+"images": [
+  "/images/Berlin4.avif",
+  "/images/Berlin41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "The FIZZ Berlin, Berlin",
+      "location": "Berlin, Berlin, DE",
+      "price": "£1679/",
+      "rating": 4.6,
+"images": [
+  "/images/Berlin5.avif",
+  "/images/Berlin51.avif"
+      ]    }
+  ],
+    "Munich": [
+    {
+      "id": 1,
+      "name": "Brera Munich Schwabing, Municha",
+      "location": "Munchen, Bayern, DE",
+      "price": "£2906/",
+      "rating": 4.9,
+      "images": [
+  "/images/Munich1.avif",
+  "/images/Munich11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Revo, Munich",
+      "location": "Munchen, Bayern, DE",
+      "price": "£2150/",
+      "rating": 4.7,
+    "images": [
+  "/images/Munich2.avif",
+  "/images/Munich21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "SPC 81541, Munchen",
+      "location": "Munchen, Bavaria, DE",
+      "price": "£200/",
+    "rating": 5.0,
+"images": [
+  "/images/Munich3.avif",
+  "/images/Munich31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "SPC 80337, Munchen",
+      "location": "London, England, GB",
+      "price": "£200/",
+     "rating": 4.9,
+"images": [
+  "/images/Munich4.avif",
+  "/images/Munich41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "TumblingerstraBe, Munich",
+      "location": "Munchen, Bayern, DE",
+      "price": "£1010/",
+     "rating": 5.0,
+"images": [
+  "/images/London12.avif",
+  "/images/London14.avif"
+      ]    }
+  ],
+    "Hamburg": [
+    {
+      "id": 1,
+      "name": "Alfons 5, Hamburg",
+      "location": "Hamburg, Hamburg, DE",
+      "price": "£810/",
+      "rating": 5.0,
+      "images": [
+  "/images/Hamburg1.avif",
+  "/images/Hamburd11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "TheFIZZ Hamburg Hammerbro...",
+      "location": "Hamburg, Hamburg, DE",
+      "price": "£1023/",
+      "rating": 4.8,
+    "images": [
+  "/images/Hamburd2.avif",
+  "/images/Hamburd21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Havens Living Hamburg Hamm...",
+      "location": "Hamburg, Hamburg, DE",
+      "price": "£1289/",
+      "rating": 4.6,
+"images": [
+  "/images/Hamburd3.avif",
+  "/images/Hamburd31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "The FIZZ Hamburg Altona, Ham...",
+      "location": "Hamburg, Hamburg, DE",
+      "price": "£1156/",
+      "rating": 4.8,
+"images": [
+  "/images/Hamburd4.avif",
+  "/images/Hamburd41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Havens Livind Hamburg Altona, ...",
+      "location": "London, England, GB",
+      "price": "£1489/",
+      "rating": 4.5,
+"images": [
+  "/images/Hamburd5.avif",
+  "/images/Hamburd51.avif"
+      ]    }
+  ],
+    "Madrid": [
+    {
+      "id": 1,
+      "name": "Nido Principe Pio, Madrid",
+      "location": "Madrid, Comunidad de Madrid, Es",
+      "price": "£975/",
+      "rating": 5.0,
+      "images": [
+  "/images/Madrid1.avif",
+  "/images/Madrid11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Node Madrid Carabanchel, Mad...",
+      "location": "Madrid, Comunidad de Madrid, Es",
+      "price": "£955/",
+      "rating": 4.7,
+    "images": [
+  "/images/Madrid2.avif",
+  "/images/Madrid21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Yugo Galdos, Madrid",
+      "location": "Madrid, Comunidad de Madrid, Es",
+      "price": "£1336/",
+      "rating": 4.9,
+"images": [
+  "/images/Madrid3.avif",
+  "/images/Madrid31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Yugo Emilia Pardo Bazan, Madrid",
+      "location": "Madrid, Comunidad de Madrid, Es",
+      "price": "£1496/",
+      "rating": 4.8,
+"images": [
+  "/images/Madrid4.avif",
+  "/images/Madrid41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Micampus Sinesio Delgado, Ma...",
+      "location": "Madrid, Comunidad de Madrid, Es",
+      "price": "£1055/",
+      "rating": 5.0,
+"images": [
+  "/images/Madrid5.avif",
+  "/images/Madrid51.avif"
+      ]    }
+  ],
+    "Barcelona": [
+    {
+      "id": 1,
+      "name": "Balmes 335, Barcelona",
+      "location": "Barcelona, Catalunya, ES",
+      "price": "£556/",
+      "rating": 4.8,
+      "images": [
+  "/images/Barcelona1.avif",
+  "/images/Barcelona11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Amigo 26, Barcelona",
+      "location": "Barcelona, Catalunya, ES",
+      "price": "£828/",
+      "rating": 4.7,
+    "images": [
+  "/images/Barcelona2.avif",
+  "/images/Barcelona21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "Muntaner  448, Barcelona",
+      "location": "Barcelona, Catalunya, ES",
+      "price": "£524/",
+      "rating": 4.5,
+"images": [
+  "/images/Barcelona3.avif",
+  "/images/Barcelona31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Residencia Reina De La Pau, Bar...",
+      "location": "Barcelona, Catalunya, ES",
+      "price": "£200/",
+      "rating": 4.8,
+"images": [
+  "/images/Barcelona4.avif",
+  "/images/Barcelona41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Corsega, Barcelona",
+      "location": "Barcelona, Catalunya, ES",
+      "price": "£904/",
+      "rating": 4.8,
+"images": [
+  "/images/Barcelona5.avif",
+  "/images/Barcelona51.avif"
+      ]    }
+  ],
+    "Valencia": [
+    {
+      "id": 1,
+      "name": "Rodriguez De Cepeda 044, Vale...",
+      "location": "Valencia, Communidad Valenciana, ES",
+      "price": "£410/",
+      "rating": 5.0,
+      "images": [
+  "/images/Valencia1.avif",
+  "/images/Valenica11.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Yugo Valencia Arc, Valencia",
+      "location": "Valencia, Communidad Valenciana, ES",
+      "price": "£582/",
+      "rating": 4.8,
+    "images": [
+  "/images/Valenica2.avif",
+  "/images/Valenica21.avif"
+      ]    },
+    {
+      "id": 3,
+      "name": "salamanca 46, Valencia",
+      "location": "Valencia, Communidad Valenciana, ES",
+      "price": "£628/",
+      "rating": 4.6,
+"images": [
+  "/images/Valenica3.avif",
+  "/images/Valenica31.avif"
+      ]     },
+    {
+      "id": 4,
+      "name": "Facultades, Valencia",
+      "location": "Valencia, Communidad Valenciana, ES",
+      "price": "£788/",
+      "rating": 4.8,
+"images": [
+  "/images/Valenica4.avif",
+  "/images/Valenica41.avif"
+      ]    },
+    {
+      "id": 5,
+      "name": "Micampus Galileo  Galilei, Valen...",
+      "location": "Valencia, Communidad Valenciana, ES",
+      "price": "£931/",
+      "rating": 5.0,
+"images": [
+  "/images/Valenica5.avif",
+  "/images/Valenica51.avif"
+      ]    }
+  ]
+
+}
